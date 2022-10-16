@@ -1,0 +1,41 @@
+
+
+
+<html>
+
+<body>
+
+
+
+
+
+
+
+
+
+
+  
+
+ <h1> id: 0, </h1>
+
+ <h1> Name: "add your name", </h1>
+
+ <h1>  branch: "add your branch", </h1>
+
+ <h1>  introduction: "add your small introduction", </h1>
+
+ <h1> skills: ["add your skills", "skill1", "skill2"],
+
+ <h1> socialsHandles: { <h1>
+
+ <h1><br>    github: "add your github handle",</h1></br>
+
+ <h1><br>     twitter: "add your twitter handle",</h1></br>
+
+ <h1><br>     linkedin: "add your linkedin handle",</h1></br>
+
+   <h1> }, </h1>
+</body>
+</html>
+
+
