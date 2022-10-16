@@ -18,21 +18,21 @@
 
  <h1> id: 0, </h1>
 
- <h1> Name: "add your name", </h1>
+ <h1> Name: "Krish Jadav", </h1>
 
- <h1>  branch: "add your branch", </h1>
+ <h1>  branch: "ICT 1st Year", </h1>
 
- <h1>  introduction: "add your small introduction", </h1>
+ <h1>  introduction: "A student at PDEU wanting to explore more about coding and freelance ", </h1>
 
- <h1> skills: ["add your skills", "skill1", "skill2"],
+ <h1> skills: ["Coding on C", "curious about new things"],
 
  <h1> socialsHandles: { <h1>
 
- <h1><br>    github: "add your github handle",</h1></br>
+ <h1><br>    github: "https://github.com/krishJadav",</h1></br>
 
- <h1><br>     twitter: "add your twitter handle",</h1></br>
+ <h1><br>     twitter: "https://twitter.com/KrishJadav_?t=bvjgsEUv-wGsYpXgrQaGgA&s=09",</h1></br>
 
- <h1><br>     linkedin: "add your linkedin handle",</h1></br>
+ <h1><br>     linkedin: "https://www.linkedin.com/in/mr-krish",</h1></br>
 
    <h1> }, </h1>
 </body>
